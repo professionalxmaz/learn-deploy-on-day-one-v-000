@@ -1,4 +1,7 @@
 /* GLOBAL STYLES
+
+jay <a href="http://imgur.com/XIyzU4u"><img src="http://i.imgur.com/XIyzU4u.jpg" title="source: imgur.com" /></a>
+me <a href="http://imgur.com/XIyzU4u"><img src="http://i.imgur.com/XIyzU4u.jpg" title="source: imgur.com" /></a>
 ======================== */
 
 *, *:before, *:after {
@@ -133,12 +136,20 @@ a:visited {
   height: 400px;
 }
 
+#alex-friedland-cover {
+  background-image: url("http://i.imgur.com/GTK9eod.jpg");
+}
+
+#alex-friedland-card {
+  background-image: url("http://i.imgur.com/XIyzU4u.jpg");
+}
+
 #alic-trossman-cover {
- background-image: url("http://i.imgur.com/mDk6Z7b.jpg"); 
+ background-image: url("http://i.imgur.com/mDk6Z7b.jpg");
 }
 
 #alic-trossman-card {
- background-image: url("http://i.imgur.com/4uQQp1S.jpg"); 
+ background-image: url("http://i.imgur.com/4uQQp1S.jpg");
 }
 
 #matt-hallquist-cover {
